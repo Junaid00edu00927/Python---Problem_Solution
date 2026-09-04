@@ -1,0 +1,10 @@
+#!/usr/bin/env python3
+"""
+Audio File Size Calculator - Entry Point
+"""
+
+from Audio_ui import App
+
+if __name__ == "__main__":
+    app = App()
+    app.run()
